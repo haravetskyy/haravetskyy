@@ -17,7 +17,7 @@
 <br>
 <br>
 
-<img align='right' src='https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif' width="150px">
+<img align='right' src='https://i.pinimg.com/originals/9b/bf/0c/9bbf0cd7b76f71cbfef55f954684a50e.gif' width="150px">
 
 Hi there, I’m **Yura Haravetskyy** a **Frontend Developer**, I specialize in JS, CSS and HTML. In addition, I work with CSS preprocessors like SCSS.  I am interested in building innovative interfaces which proved the best user experience possible. 
 I am aiming to become a full-stack developer in the near future.
@@ -37,7 +37,7 @@ I am aiming to become a full-stack developer in the near future.
   <img src="https://camo.githubusercontent.com/41658d5ca4d38291a5bcb60841440cb7f35057a83ebf9e871b41ff41ca573622/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="JavaScript" width="100"/>
   <img src="https://camo.githubusercontent.com/a8978c9b8559838cebb2515231b3e66a55f8f58032507a9d44616c7bc0f942ff/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667" alt="Node.JS" width="100"/> 
   <img src="https://anatoly-dolgov.ru/img/sass-logo.png" alt="Sass" width="100"/> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="100"/> 
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="100"/> 
 </div>
 
 ##
