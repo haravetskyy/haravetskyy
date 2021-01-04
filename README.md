@@ -31,11 +31,11 @@ I am aiming to become a full-stack developer in the near future.
 
 ## Languages and tools: 
 <div style="display: flex; flex-direction: column;">
-<img src="https://camo.githubusercontent.com/d6132432639dc76bc7efc93b89077a2fcd6c57f0add179bfa30c1b01c78c8b66/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f626f6f7473747261702f626f6f7473747261702d706c61696e2e737667" alt="BootsTrap" width="100"/>
-<img src="https://camo.githubusercontent.com/0fdb47c9ab542d2caba4262b920398c4d78e294bac37019aba5788236fe8c192/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f637373332f637373332d6f726967696e616c2d776f72646d61726b2e737667" alt="CSS" width="100"/>
-  <img src="https://camo.githubusercontent.com/fc95eafc6c5b19707ce26c010800750476f353c7c1dce2e0f9fc9121dfc497af/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="HTML" width="100"/>
-  <img src="https://camo.githubusercontent.com/41658d5ca4d38291a5bcb60841440cb7f35057a83ebf9e871b41ff41ca573622/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="JavaScript" width="100"/>
-  <img src="https://camo.githubusercontent.com/a8978c9b8559838cebb2515231b3e66a55f8f58032507a9d44616c7bc0f942ff/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667" alt="Node.JS" width="100"/> 
+<img src="https://www.searchpng.com/wp-content/uploads/2019/02/Bootstrap-Logo-PNG.png" alt="BootsTrap" width="100"/>
+<img src="https://logema.org/local/templates/.default/img/outsource/css3.svg" alt="CSS" width="100"/>
+  <img src="https://i.stack.imgur.com/PgcSR.png" alt="HTML" width="100"/>
+  <img src="https://www.maisonlambot.com/wp-content/uploads/2016/03/js-logo.png" alt="JavaScript" width="100"/>
+  <img src="https://ezerus.com.au/wp-content/uploads/2019/05/nodejs-square-200.png" alt="Node.JS" width="100"/> 
   <img src="https://anatoly-dolgov.ru/img/sass-logo.png" alt="Sass" width="100"/> 
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="100"/> 
 </div>
