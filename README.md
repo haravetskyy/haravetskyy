@@ -32,13 +32,13 @@ I am aiming to become a full-stack developer in the near future.
 ## Languages and tools: 
 <div style="display: flex; flex-direction: column;">
   <img src="https://www.searchpng.com/wp-content/uploads/2019/02/Bootstrap-Logo-PNG.png" alt="BootsTrap" width="100"/>
-  dd<img src="https://logema.org/local/templates/.default/img/outsource/css3.svg" alt="CSS" width="100"/>
+  <img src="https://logema.org/local/templates/.default/img/outsource/css3.svg" alt="CSS" width="110"/>
   <img src="https://i.stack.imgur.com/PgcSR.png" alt="HTML" width="100"/>
   <img src="https://www.maisonlambot.com/wp-content/uploads/2016/03/js-logo.png" alt="JavaScript" width="100"/>
   <img src="https://ezerus.com.au/wp-content/uploads/2019/05/nodejs-square-200.png" alt="Node.JS" width="100"/> 
   <img src="https://anatoly-dolgov.ru/img/sass-logo.png" alt="Sass" width="100"/> 
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="100"/> 
-  <img src="https://reactstrap.github.io/assets/logo.png" alt="React" width="100" />
+  <img src="https://media.discordapp.net/attachments/791397480923267142/855493188974673982/685-6854994_react-logo-no-background-hd-png-download-removebg-preview.png" alt="React"       width="110" />
 </div>
 
 ##
