@@ -38,7 +38,7 @@ I am aiming to become a full-stack developer in the near future.
   <img src="https://ezerus.com.au/wp-content/uploads/2019/05/nodejs-square-200.png" alt="Node.JS" width="100"/> 
   <img src="https://anatoly-dolgov.ru/img/sass-logo.png" alt="Sass" width="100"/> 
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="100"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="100" />
+  <img src="https://reactstrap.github.io/assets/logo.png" alt="React" width="100" />
 </div>
 
 ##
