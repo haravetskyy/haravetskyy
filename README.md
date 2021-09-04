@@ -3,16 +3,16 @@
 ### Hey👋   I'm Yura Haravetskyy
 
 <a href="https://open.spotify.com/user/u3tsi9pmzvne41tg869wh8w3b">
-  <img align="left" alt="Yura Haravetskyy Spotify" width="30px" src="https://cdn-icons-png.flaticon.com/512/49/49097.png" />
+  <img align="left" alt=" Spotify" width="30px" src="https://cdn-icons-png.flaticon.com/512/49/49097.png" />
 </a>
 <a href="https://github.com/haravetskyy" target="_blank">
-  <img align="left" alt="Yura Haravetskyy Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
+  <img align="left" alt=" Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
 </a>
 <a href="https://gitlab.com/haravetskyy" target="_blank">
-  <img align="left" alt="Yura Haravetskyy Gitlab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gitlab.svg" />
+  <img align="left" alt=" Gitlab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gitlab.svg" />
 </a>
 <a href="mailto:yngharavetskyy@gmail.com">
-  <img align="left" alt="Yura Haravetskyy Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
+  <img align="left" alt=" Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
 </a>
 <br>
 <br>
