@@ -3,7 +3,7 @@
 ### Hey👋   I'm Yura Haravetskyy
 
 <a href="https://open.spotify.com/user/u3tsi9pmzvne41tg869wh8w3b">
-  <img align="left" alt="Yura Haravetskyy Spotify" width="30px" src="https://www.pngall.com/wp-content/uploads/9/Spotify-Logo.png" />
+  <img align="left" alt="Yura Haravetskyy Spotify" width="30px" src="https://cdn-icons-png.flaticon.com/512/49/49097.png" />
 </a>
 <a href="https://github.com/haravetskyy" target="_blank">
   <img align="left" alt="Yura Haravetskyy Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
