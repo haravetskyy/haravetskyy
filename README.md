@@ -1,6 +1,6 @@
-# Hey👋 I'm Yuriy Haravetskyy
+# Yuriy Haravetskyy
 
-Hi there, I’m **Yuriy Haravetskyy** a beginner **Frontend Developer**. I'm studying front-end since 2019, but made a huge break that caused me forgetting most of the things that I've been learning that time. So, now I'm coming back to this sphere of activity with new much stronger passion.
+Hi there, I’m **Yuriy Haravetskyy** a beginner **Frontend Developer**
 
 ### The list of tools I worked with:
 
@@ -11,7 +11,8 @@ Hi there, I’m **Yuriy Haravetskyy** a beginner **Frontend Developer**. I'm stu
 
 ### What I'm currently developing myself in:
 
-- Restoring my knowledge of **JavaScript**
-- My **goal** for 2023-2024: stat learning of **TypeScript** and **react.js** for higher code quality
+- Enhancing my knowledge of **JavaScript**
+- My **goal** for 2023-2024 <img width="1602" alt="image" src="https://github.com/haravetskyy/haravetskyy/assets/56477764/4b3bdf32-0df6-4f34-9198-16cd6f17f471">
+is to deepen my knowledge in React, TypeScript and other libraries to be able to write more reliable and efficient code
 - Also studying in UITM in Rzeszow, Poland on faculty of computer science: programming
 
