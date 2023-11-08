@@ -1,11 +1,11 @@
 # Yuriy Haravetskyy
 
-Hi there, I’m **Yuriy Haravetskyy** a beginner **Frontend Developer**
+Hi there, I’m **Yuriy Haravetskyy** a beginner **Frontend Developer**. My web development journey began in 2019. I joined a Front-End bootcamp where I got to know the basics of web tech like HTML, CSS, and JavaScript. I've also had a chance to work on fun projects with other folks, focusing on page designs, cool animations, and making websites interactive. Plus, I've dipped my toes into React, TypeScript, and Firebase.
 
 ### The list of tools I worked with:
 
 - Frontend basics: _HTML_ and _CSS_
-- Additional styling instruments as _SCSS_, _BEM_ methodology, _Tailwind_, _BootStrap_ and others
+- Additional styling tools as _SCSS_, _BEM_ methodology, _Tailwind_, _BootStrap_ and others
 - _Reacts.js_
 - _Firebase_
 
